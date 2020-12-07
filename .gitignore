@@ -1,0 +1,8 @@
+*.o
+
+register.txt
+
+client/client
+server/server
+
+
